@@ -20,6 +20,7 @@ public class IUserDaoTest {
         long id = 1;
         User user = dao.selectUser(id);
         System.out.println(user.getUsername());
+        System.out.println(user.getEmail());
     }
 
 }
