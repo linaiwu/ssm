@@ -6,22 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8779acf4-f80f-49ce-9c34-9f202298e1ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssm/servlet/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/java/com/ssm/demoTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/java/com/ssm/demoTest/TestHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/java/com/ssm/demoTest/TestRedis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ssm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ssm.iml" afterDir="false" />
+    <list default="true" id="8779acf4-f80f-49ce-9c34-9f202298e1ac" name="Default Changelist" comment="ssm first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ssm_war_exploded/WEB-INF/classes/com/ssm/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ssm_war_exploded/WEB-INF/classes/com/ssm/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ssm/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ssm/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ssm/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ssm/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ssm/daoTest/IUserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ssm/daoTest/IUserDaoTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -201,7 +187,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
+    <option name="x" value="48" />
     <option name="y" value="61" />
     <option name="width" value="1400" />
     <option name="height" value="790" />
@@ -222,7 +208,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586530511698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589437675001" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -603,7 +589,7 @@
       <workItem from="1586416533464" duration="140000" />
       <workItem from="1586416754580" duration="153000" />
       <workItem from="1586913706609" duration="2000" />
-      <workItem from="1589436890839" duration="567000" />
+      <workItem from="1589436890839" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="ssm first">
       <created>1569668257238</created>
@@ -619,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569669043500</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ssm first">
+      <created>1589437586601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589437586602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -631,7 +624,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35759000" />
+    <option name="totallyTimeSpent" value="36149000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,9 +636,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="61" width="1400" height="790" extended-state="0" />
+    <frame x="48" y="61" width="1400" height="790" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.32405567" visible="true" weight="0.33946982" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.32405567" visible="true" weight="0.33946982" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -662,7 +655,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3288889" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49779087" weight="0.26222223" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49779087" visible="true" weight="0.26222223" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5014728" side_tool="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4992636" weight="0.3288889" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3288889" />
@@ -685,6 +678,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ssm first" />
