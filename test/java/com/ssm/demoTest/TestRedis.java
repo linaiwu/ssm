@@ -32,6 +32,8 @@ public class TestRedis {
         List<String> hmget = jedis.hmget("people", "age", "sex", "height", "name");
         System.out.println(hmget);
 
+        System.out.println();
+
 
     }
 }
