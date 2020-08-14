@@ -21,6 +21,7 @@ public class IUserDaoTest {
         User user = dao.selectUser(id);
         System.out.println(user.getUsername());
         System.out.println(user.getEmail());
+        System.out.println(user.getPassword());
     }
 
 }
