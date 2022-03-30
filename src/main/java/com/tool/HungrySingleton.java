@@ -1,4 +1,4 @@
-package com.singlemodel;
+package com.tool;
 
 public class HungrySingleton {
 
