@@ -1,4 +1,5 @@
 package com.ssm.demoTest;
+import org.springframework.security.core.session.SessionInformation;
 import redis.clients.jedis.Jedis;
 
 import java.util.HashMap;
@@ -33,7 +34,7 @@ public class TestRedis {
         System.out.println(hmget);
 
         System.out.println();
-
+        
 
     }
 }
